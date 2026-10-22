@@ -45,3 +45,14 @@
 
 ## ⛽ Brief Gas Explanation
 **Gas** is the fundamental execution fee unit required to process operations on the Ethereum network (such as executing token transfers or running smart contract functions). On the Sepolia testnet, gas is paid entirely using **Sepolia ETH** (test ETH), while custom tokens like BGC and BSC are separate application assets and are never used to pay network gas fees.
+
+## Proof of some purchases:
+0x941e7a305879de320cd86e47385d00b1d99216776763e2ed6a0695b66edd7de2
+0x68ef9cb12154d39c1cea33b5b02ad4c3272d1a587510bb555c0bff04e37d874a
+0x90f79d41b9df52e56a7a6d93d43bd1a6eea67f2b9e5ef61b65bad8c0b52b62ae
+0xdd685d9ac74af6f08016bbf3aaced65e7bc7b2256fa21b99f802c26da0e2cd76
+
+## Proof of pool:
+
+Silver Coin BSC: 0x05f1bf5765c06cbf1a31e995fcd9ef10191cbcde3460a49863e984db9e440cec
+Gold Coin BGC: 0xe683a3b48cc0772da9814cdc7b4b3dc8fb724441f14a4a20737cf1ea18e8d7ca
