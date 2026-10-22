@@ -1,2 +1,8 @@
 # token-dashboard
-Crypto Token Dashboard
+student-token-dashboard/
+├── index.html
+├── app.js
+├── contracts/
+│   ├── GoldToken.sol
+│   └── SilverToken.sol
+└── README.md
